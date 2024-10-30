@@ -46,6 +46,22 @@ th {
 td{
     text-align: center;
 }
+
 table{
+
     width: 100%;
+}
+a:link, a:visited{
+    margin-top: 30px;
+    margin-left: 40px;
+    background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+}
+a:hover{
+    background-color: palevioletred;
 }
